@@ -1,0 +1,15 @@
+<suite name = "Luma suite">
+    <test name = "Luma test">
+        <parameter name="email" value="test@mail.com"></parameter>>
+        <parameter name="firstName" value="ganbaa"></parameter>>
+        <parameter name="lastName" value="jarga"></parameter>>
+        <parameter name="streetName" value="1 n dearborn"></parameter>>
+        <parameter name="city" value="Chicago"></parameter>>
+        <parameter name="telephone" value="77739998888"></parameter>>
+        <parameter name="zipcode" value="60089"></parameter>>
+
+        <classes>
+            <class name="selenium.com.luma.tests.LumaScript"></class>>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,9 @@
+<suite name = "regression">
+    <test name = "regression for all">
+        <classes>
+            <class name = "selenium.com.blaze.tests.blazeScript"></class>>
+            <class name="selenium.com.php.tests.PhpTest"></class>>
+            <class name="selenium.com.sauce_labs.tests.SauceLabScripts"></class>>
+        </classes>
+    </test>
+</suite>
